@@ -1,0 +1,52 @@
+name,has_image,url,has_map,price,geotag,where,id,datetime,lat,long
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6012772248.html,TRUE,"$6,000","(37.7587, -122.433)",noe valley,6012772248,2/25/2017 12:35:00,37.7587,-122.433
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6019076981.html,TRUE,"$5,995","(37.750361, -122.436222)",noe valley,6019076981,2/25/2017 8:00:00,37.750361,-122.436222
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6017960434.html,TRUE,"$5,800","(37.764374, -122.430882)",mission district,6017960434,2/24/2017 11:12:00,37.764374,-122.430882
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6017324663.html,TRUE,"$5,495","(37.756692, -122.437881)",castro / upper market,6017324663,2/24/2017 2:28:00,37.756692,-122.437881
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6011945415.html,TRUE,"$4,950","(37.753972, -122.440917)",noe valley,6011945415,2/23/2017 14:23:00,37.753972,-122.440917
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6016631013.html,TRUE,"$4,900","(37.751829, -122.427448)",noe valley,6016631013,2/23/2017 12:18:00,37.751829,-122.427448
+,TRUE,http://sfbay.craigslist.org/sfc/sub/6016279510.html,TRUE,"$6,000","(37.761781, -122.446783)",cole valley / ashbury hts,6016279510,2/23/2017 8:49:00,37.761781,-122.446783
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6015690869.html,TRUE,"$5,995","(37.750361, -122.436222)",noe valley,6015690869,2/22/2017 19:14:00,37.750361,-122.436222
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6015178377.html,TRUE,"$5,400","(37.760396, -122.42985)",castro / upper market,6015178377,2/22/2017 12:23:00,37.760396,-122.42985
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6015005491.html,TRUE,"$5,900",,castro / upper market,6015005491,2/22/2017 10:38:00,,
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6014720946.html,TRUE,"$5,800","(37.764374, -122.430882)",mission district,6014720946,2/22/2017 7:58:00,37.764374,-122.430882
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6012080942.html,TRUE,"$5,995","(37.750361, -122.436222)",noe valley,6012080942,2/20/2017 11:57:00,37.750361,-122.436222
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6011720181.html,TRUE,"$5,800","(37.7587, -122.433)",mission district,6011720181,2/20/2017 8:45:00,37.7587,-122.433
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6011146183.html,TRUE,"$5,850","(37.761674, -122.430868)",castro / upper market,6011146183,2/19/2017 19:42:00,37.761674,-122.430868
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6010713924.html,TRUE,"$5,550","(37.759675, -122.40208)",potrero hill,6010713924,2/26/2017 6:40:00,37.759675,-122.40208
+,TRUE,http://sfbay.craigslist.org/sfc/apa/5986576898.html,TRUE,"$5,750","(37.763438, -122.396836)",potrero hill,5986576898,2/24/2017 19:11:00,37.763438,-122.396836
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6004708669.html,TRUE,"$5,495","(37.734311, -122.398342)",mission district,6004708669,2/23/2017 22:20:00,37.734311,-122.398342
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6003848361.html,TRUE,"$5,795","(37.763107, -122.387795)",potrero hill,6003848361,2/23/2017 16:39:00,37.763107,-122.387795
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6016912284.html,TRUE,"$4,495","(37.762689, -122.389917)",potrero hill,6016912284,2/23/2017 15:39:00,37.762689,-122.389917
+,TRUE,http://sfbay.craigslist.org/sfc/apa/5994097196.html,TRUE,"$5,650","(37.76053, -122.387911)",potrero hill,5994097196,2/23/2017 11:39:00,37.76053,-122.387911
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6003697970.html,TRUE,"$5,600","(37.77508, -122.400638)",SOMA / south beach,6003697970,2/23/2017 11:11:00,37.77508,-122.400638
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6015802761.html,TRUE,"$4,800","(37.75443, -122.399454)",potrero hill,6015802761,2/22/2017 21:56:00,37.75443,-122.399454
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6014192083.html,TRUE,"$6,100","(37.786713, -122.428336)",lower pac hts,6014192083,2/21/2017 18:48:00,37.786713,-122.428336
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6003520058.html,TRUE,"$6,195","(37.776973, -122.392523)",SOMA / south beach,6003520058,2/21/2017 15:11:00,37.776973,-122.392523
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6003343235.html,TRUE,"$6,030","(37.777652, -122.393897)",SOMA / south beach,6003343235,2/21/2017 14:52:00,37.777652,-122.393897
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6013289530.html,TRUE,"$4,950","(37.762703, -122.389997)",potrero hill,6013289530,2/21/2017 8:54:00,37.762703,-122.389997
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6012013761.html,TRUE,"$5,500","(37.757826, -122.39021)",potrero hill,6012013761,2/20/2017 11:20:00,37.757826,-122.39021
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6004290313.html,TRUE,"$5,250","(37.757101, -122.417812)",mission district,6004290313,2/26/2017 14:08:00,37.757101,-122.417812
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6016592375.html,TRUE,"$5,600","(37.741411, -122.424055)",bernal heights,6016592375,2/26/2017 2:00:00,37.741411,-122.424055
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6015392394.html,TRUE,"$5,800","(37.741411, -122.424055)",mission district,6015392394,2/25/2017 13:24:00,37.741411,-122.424055
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6014422504.html,TRUE,"$5,600","(37.741411, -122.424055)",glen park,6014422504,2/25/2017 13:24:00,37.741411,-122.424055
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6014423409.html,TRUE,"$5,600","(37.741411, -122.424055)",mission district,6014423409,2/25/2017 0:53:00,37.741411,-122.424055
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6018476743.html,TRUE,"$5,300","(37.741411, -122.411968)",bernal heights,6018476743,2/24/2017 17:18:00,37.741411,-122.411968
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6001087275.html,TRUE,"$4,950","(37.732194, -122.424282)",bernal heights,6001087275,2/24/2017 16:25:00,37.732194,-122.424282
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6018418211.html,TRUE,"$4,950","(37.732194, -122.424282)",bernal heights,6018418211,2/24/2017 16:25:00,37.732194,-122.424282
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6012752215.html,TRUE,"$5,600","(37.741411, -122.424055)",mission district,6012752215,2/24/2017 14:25:00,37.741411,-122.424055
+,TRUE,http://sfbay.craigslist.org/sfc/apa/5995536923.html,TRUE,"$5,995","(37.75754, -122.423864)",noe valley,5995536923,2/24/2017 8:35:00,37.75754,-122.423864
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6016902331.html,TRUE,"$4,395","(37.754682, -122.406798)",mission district,6016902331,2/23/2017 15:31:00,37.754682,-122.406798
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6014954005.html,TRUE,"$5,300","(37.741411, -122.411968)",bernal heights,6014954005,2/22/2017 10:08:00,37.741411,-122.411968
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6012027835.html,TRUE,"$5,300","(37.7509, -122.4153)",bernal heights,6012027835,2/20/2017 11:28:00,37.7509,-122.4153
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6020952109.html,TRUE,"$5,095","(37.774157, -122.413319)",SOMA / south beach,6020952109,2/26/2017 13:38:00,37.774157,-122.413319
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6019644225.html,TRUE,"$5,095","(37.774157, -122.413319)",SOMA / south beach,6019644225,2/25/2017 13:36:00,37.774157,-122.413319
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6019396440.html,TRUE,"$5,095","(37.774157, -122.413319)",SOMA / south beach,6019396440,2/25/2017 11:02:00,37.774157,-122.413319
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6018514314.html,TRUE,"$5,095","(37.774157, -122.413319)",SOMA / south beach,6018514314,2/24/2017 17:55:00,37.774157,-122.413319
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6018330906.html,TRUE,"$5,772","(37.7725, -122.4147)",mission district,6018330906,2/24/2017 15:19:00,37.7725,-122.4147
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6018222875.html,TRUE,"$6,000","(37.778245, -122.410312)",SOMA / south beach,6018222875,2/24/2017 13:56:00,37.778245,-122.410312
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6007753616.html,TRUE,"$5,400","(37.773077, -122.411965)",SOMA / south beach,6007753616,2/24/2017 10:59:00,37.773077,-122.411965
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6013642458.html,TRUE,"$5,603","(37.773088, -122.411978)",SOMA / south beach,6013642458,2/24/2017 10:59:00,37.773088,-122.411978
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6004935858.html,TRUE,"$5,400","(37.773067, -122.411952)",SOMA / south beach,6004935858,2/24/2017 10:59:00,37.773067,-122.411952
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6015430607.html,TRUE,"$6,200","(37.7725, -122.4147)",mission district,6015430607,2/22/2017 15:15:00,37.7725,-122.4147
+,TRUE,http://sfbay.craigslist.org/sfc/apa/6004208229.html,TRUE,"$5,650","(37.766174, -122.424236)",mission district,6004208229,2/19/2017 9:57:00,37.766174,-122.424236
